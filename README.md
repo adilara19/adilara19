@@ -2,7 +2,7 @@
 - 👀 I’m a Software Engineer in North Cyprus.
 - 🌱 I’m currently learning React.
 - 💞️ I’m trying to educate myself via using github.
-- 📫 How to reach me ---> adilaraozturk@gmail.com.
+- 📫 How to reach me ---> aysedilaraozturk@gmail.com.
 
 <!---
 adilara19/adilara19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
