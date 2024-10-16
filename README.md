@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adilara19
-- 👀 I’m a senior year Software Engineering student in Eastern Mediterranean University in North Cyprus.
-- 🌱 I’m currently learning Laravel.
+- 👀 I’m a Software Engineer in North Cyprus.
+- 🌱 I’m currently learning React.
 - 💞️ I’m trying to educate myself via using github.
 - 📫 How to reach me ---> adilaraozturk@gmail.com.
 
